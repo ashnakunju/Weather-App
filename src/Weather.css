@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 35%;
+    background-color: rgb(77, 77, 211);
+    width: 300px;
+    height: 450px;
+    padding: 2%;
+}
+
+.search{
+    display: flex;
+    gap: 5%;
+}
+.city{
+    border-radius: 20px;
+    width: 100%;
+}
+.icon{
+    background-color: aliceblue;
+    padding: 3%;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 10px;
+
+}
+.imag{
+    height: 150px;
+}
+.imag1{
+    height: 40px;
+}
+.details{
+    display: flex;
+    gap: 20%;
+}
+.humidity{
+    display: flex;
+}
+.wind{
+    display: flex;
+}
